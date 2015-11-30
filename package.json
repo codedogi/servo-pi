@@ -1,0 +1,30 @@
+{
+  "name": "servo-pi",
+  "version": "0.1.0",
+  "description": "Servo application using johnny-five.io and raspi-pi.io",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codedogi/servo-pi.git"
+  },
+  "homepage": "https://github.com/codedogi/servo-pi",
+  "keywords": [
+    "raspberrypi",
+    "servo"
+  ],
+  "dependencies": {
+    "johnny-five": "^0.9.11",
+    "raspi-io": "^5.0.0"
+  },
+  "author": "Rich Spencer <hrspencer@hotmail.com>",
+  "contributors": [
+    {
+      "name": "Rich Spencer",
+      "email": "hrspencer@hotmail.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codedogi/servo-pi/issues"
+  }
+}
